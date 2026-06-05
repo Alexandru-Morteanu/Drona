@@ -45,12 +45,12 @@ Mai jos este detaliată lista completă a componentelor folosite în ansamblul 3
 ### Configurația Stack-ului Electronic (Rigid Group)
 Plăcile electronice au fost grupate rigid pentru a simula corect prinderea lor fizică pe șuruburi.
 
-![Stack Electronic Fusion 360](cale_catre_imaginea_ta_1.png)
+<img width="593" height="386" alt="Screenshot 2026-06-05 at 15 12 35" src="https://github.com/user-attachments/assets/26b4da86-3bbe-49f3-857b-66b9a004fb7f" />
 
 ### Alinierea Componentelor pe Cadrul de Carbon
 Vizualizare de sus a plasării motorizării și a modulelor de navigație.
 
-![Ansamblu Joint Dronă](cale_catre_imaginea_ta_2.png)
+<img width="931" height="631" alt="Screenshot 2026-06-05 at 15 12 55" src="https://github.com/user-attachments/assets/54ebcac2-714a-4cfd-8fef-a15bec5e8d04" />
 
 ---
 
